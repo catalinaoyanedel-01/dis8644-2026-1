@@ -1,7 +1,7 @@
 # sesion-01a
-Encargoa-01a taller
+# Encargoa-01a taller
 
-Artista elegida: Wendy Carlos
+**Artista elegida:** Wendy Carlos
 
 Nació el 14 de noviembre de 1939 en Pawtucket, Rhode Island Estados unidos, estudió en la Universidad Brown, posteriormente obtuvo una maestría en composición musical en la Universidad de Columbia.
 
@@ -15,24 +15,28 @@ En 1964, siendo aún estudiante de posgrado, conoció a Robert Moog, quien estab
 
 Wendy ayudó a demostrar que el sintetizador como instrumento musical serio no era solo un efecto de sonido y logró que los instrumentos electrónicos comenzaran a utilizarse más en varios estilos musicales influyendo en el desarrollo de la música electrónica moderna  (The Guardian).
 
+---
+
 Peliculas donde combinó sintetizadores y música orquestal:
 
-Tron
++ Tron
 
-The shining
++ The shining
 
-A Clockwork Orange
++ A Clockwork Orange
 
-Referencias:
+## Referencias:
 
 Encyclopaedia Britannica. (s.f.). Wendy Carlos.
 
-https://www.britannica.com/biography/Wendy-Carlos
+<https://www.britannica.com/biography/Wendy-Carlos>
 
 Who2. (s.f.). Wendy Carlos.
 
-https://www.who2.com/bio/wendy-carlos/
+<https://www.who2.com/bio/wendy-carlos/>
 
 The Guardian. (2020, November 11). She made music jump into 3D: Wendy Carlos, the reclusive synth genius.
 
-https://www.theguardian.com/music/2020/nov/11/she-made-music-jump-into-3d-wendy-carlos-the-reclusive-synth-genius
+<https://www.theguardian.com/music/2020/nov/11/she-made-music-jump-into-3d-wendy-carlos-the-reclusive-synth-genius>
+
+[IMG1](./imagenen/)
