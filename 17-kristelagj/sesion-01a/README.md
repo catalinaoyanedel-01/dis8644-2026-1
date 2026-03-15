@@ -65,8 +65,6 @@ Después de ver el documental:
 
 Mientras veía el documental entendía el porque me gusta la música electrónica, sobre todo la de los 80 o cercano a ello como lo es Jean luc Ponty, violinista francés que en muchas de sus obras incorpora el sintetizador y muchos instrumentos eléctricos. El álbum “cosmic messenger” estuvo en mi mente en todo momento. Destacó los temas “Cosmic Messenger” y “Ethereal Mood”
 
-![image alt](https://github.com/kristelagj/dis8644-2026-1/blob/987d761ace27704a0a22dccd7cc9670371c22cd2/17-kristelagj/sesion-01a/cosmismessenger.jpg)
-
 ![Cosmis Messenger](cosmismessenger.jpg)
 
 El mundo seguía una misma línea, todos hacían lo mismo pero a su manera, pero a partir del siglo XX toda esa continuidad decayó y comenzó a tener matices, el silencio se rompió, todo elemento podía ser un sonido, los aviones, las sirenas, las bombas, todo podía ser utilizado para crear música, liberarse y/o expresarse, ya no solo existía el violín o el piano a la disposición para expresar algo. Esto me hace reflexionar el porque si vivo en un siglo que estos dos elementos coexisten, preferí ser intérprete de uno sobre el otro, siendo ambos actualmente de mi gusto, es una duda que ahora no tiene respuesta, pero puedo decir la viola fue el instrumento que llegó primero a mis manos cuando más la necesite. 
