@@ -45,4 +45,8 @@ Riveros Koloszwa, T. (2017, enero 11). Aaron Swartz: el caso del capitalismo con
 
 Vernal Vilicic, M. (2018, enero 11). Aaron Swartz: la historia de uno de los grandes genios de nuestros tiempos. Applauss. https://applauss.com/2018/01/11/aaron-swartz-historia/ 
 
+Imagenes 
+
+![aaron-sawrtz](./imagenes/aaron-swartz.jpg)
+
  
