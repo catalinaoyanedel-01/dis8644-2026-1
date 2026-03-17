@@ -1,1 +1,90 @@
 # sesion-02a
+
+**Entrega de materiales**
+
+Chip (Pedacito): puede contar y hacer secuencias 
+
+Materiales reciclables y reutilizables
+
+Broche de batería: circuito
+
+Batería
+
+Protoboard o breadboard
+
+Parlante
+
+cables de conexión
+
+Resistencia eléctrica
+
+cables jumper o dupont
+
+La resistencia eléctrica:
+
+Se mide en OHM
+
+Hay tablas que muestran que tan resistivo es un material
+
+Material conductor y aislante como el cobre que en su caso se resiste muy poco
+
+Conductor:
+
+Hierro, pata, oro, cobre, aluminio
+
+Cobre: 0,075
+
+Carbón: 100-1000
+
+oro: 0,022
+
+Omega por (mm) al cuadrado dividido en (m)
+
+
+Aislante:
+
+vidrio, tierra, plástico, madera, cuero
+
+¿AIRE?
+
+## Colores de la Resistencia: se leen para un lado
+
+Rojo, Rojo, Café y Dorado
+
+Café, Negro, Rojo y Dorado
+
+Por lo general estas terminan en dorado y los colores están asociados a un número
+
+Los primeros 2 colores son dígitos literales
+
+el tercero multiplica cantidad de ceros en múltiplos de 10 osea (x10)
+
+Tolerancia
+
+Rojo: 2, Rojo: 2, Café: 1 (Este tercero solo es la cantidad de ceros al final), Dorado: tolerancia del 5% que es el margen de error
+
+22(0) (Los números de los colores son por los que están en la tabla)
+
+Café: 1, Negro: 0, Rojo:2 (dos ceros) , Dorado 5%
+
+1.0(00) = 1.000
+
+Ej: Amarillo: 4, Violeta: 7, Naranja: 3 (tres ceros) , Dorado 5%:
+
+47.(000) = 47.00
+
+sugerencia de descargar la app Electrodos que dice que número de resistencia es dependiendo de los colores que tenga 
+
+Vamos a hacer un nuevo circuito
+
+La resistencia tiene que estar en dos partes distintas
+
+el cable positivo va a la resistencia que en este caso es de 1k osea (Café, Negro, Rojo y Dorado) y en este caso especifico va el led lo pusimos en la misma linea de la resistencia lo que hace que ocupemos menos un cable y la parte negativa del led en el protoboard se conecta a la linea horizontal larga negativa
+
+---
+
+Version branch es una de desarrollo donde proximamente se puede agregar a la version original del Github (La idea es solo tener 1 branch por persona que sería  la "main")
+
+---
+
+la imagenes que devemos poner sin espacio, sin tildes, sin mayusculas
