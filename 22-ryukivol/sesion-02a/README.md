@@ -10,13 +10,18 @@
 - Leds
 - Resistencias 1K (app electrodoc para calcular resistencias)
 
-  ![tabla-resisencias](./imagen/ResistorColorCodes.png)
+  ![tabla-resisencias](/imagen/ResistorColorCodes.png)
 
 ### Reglas ascenciales de organización
 - Positivo arriba rojo
 - Negativo abajo negro 
 
+### Circuito paralelo 
+- 2 circuitos indemendientes donde si uno de desconecta el otro siguie en funcionamiento 
+
+
 #### Imagenes de la clase 
 
-![imagen1](./imagen/circuito-6leds)
-![imagen1](./imagen/circuito-6leds-2)
+
+![imagen1](/imagen/circuito-6leds)
+![imagen1](/imagen/circuito-6leds-2)
