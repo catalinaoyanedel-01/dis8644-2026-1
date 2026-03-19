@@ -100,6 +100,9 @@ Al igual que las críticas, no es de mi interés y gusto su portada (me gusta ha
 
 - Ejercicios
 
+En clases, junto a mi compañera Paula realizamos el ejercicio número 1, pero quedamos con dudas a pesar de que nos prendieron las luces. 
+
+Después de eso, yo intente hacer por mi parte los circuitos vistos en clases y ninguno me funciono lo cual me frustro y sentía que ya pasar al siguiente nivel no me iba a funcionar, tampoco queria ver videos en youtube porque queria tener un poco de razonamiento descifrando lo que se nos entregó. 
 
 
 
