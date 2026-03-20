@@ -95,6 +95,8 @@ Proceso del encargo:
 
 - Cosa que comencé a hacer los ejercicios uno por uno. Hice copy paste a la tabla del primer ejercicio por cada uno *grave error*
 
+- Entre ello, queme 2 LEDS, algo raro ya que no era una fuente de energía muy grande.
+
 - Me confundí y terminé solo haciendo hasta R5 en todos los ejercicios (maldita sea)
 
 - Por lo tanto guardé mis cosas y me fui a la casa. Al día siguiente ya para la noche rehice todos los ejercicios y ya pude entender los esquemáticos sin muchas complicaciones.
