@@ -20,12 +20,21 @@ No importa si coloco la **resistencia** en el **positivo o el negativo**. La res
 
 ![fotoresistor](./imagenes/fotoresistor.webp)
 
+**Capatitor/Condensador:** Electrolítico. Según gemini, Un capacitor o condensador es un componente electrónico pasivo que almacena energía eléctrica temporalmente en un campo eléctrico entre dos placas conductoras separadas por un material aislante (dieléctrico). Su función principal es almacenar carga para liberarla rápidamente, filtrar señales, suavizar voltajes y bloquear corriente continua.
+
+Capacitor polarizado, 50V max
+![capacitor](./imagenes/capacitor.jpeg)
+
+Capacitor cerámico, no polarizado
+![condensador](./imagenes/condensador.webp)
+
 ### Topología
 
 * Según gemini: La topología es la rama de las matemáticas que **estudia las propiedades de los objetos geométricos** que permanecen inalteradas al deformarlos, estirarlos o doblarlos, sin romperlos ni unirlos (homeomorfismo). **Se centra en la conectividad y el número de agujeros** (género), considerando iguales figuras con distinta forma pero misma estructura topológica. 
 
 * _**Taza igual a dona (toro):**_ En topología, una taza y una dona son equivalentes porque ambas tienen exactamente un agujero (el asa de la taza y el centro de la dona). Si estuvieran hechas de plastilina, se puede moldear una en la otra sin cortarla, lo que las hace homeomorfas, o sea, la misma figura. 
 
-* _**Pantalón igual a infinito:** _La equivalencia de un pantalón (o cualquier figura con dos agujeros) con un "ocho" o el símbolo de infinito también se basa en la flexibilidad topológica.
+* _**Pantalón igual a infinito:**_ La equivalencia de un pantalón (o cualquier figura con dos agujeros) con un "ocho" o el símbolo de infinito también se basa en la flexibilidad topológica.
 
 ![dona](./imagenes/topologia.jpg)
+
