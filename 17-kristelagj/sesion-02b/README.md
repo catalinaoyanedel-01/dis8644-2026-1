@@ -111,4 +111,3 @@ La letra "B" indica que el cambio de resistencia es constante y proporcional al 
 
 **un broche de batería:** conecta la batería al circuito Rojo: Poder (arriba) Negro: Tierra (abajo) 
 
-### Reflexiones
