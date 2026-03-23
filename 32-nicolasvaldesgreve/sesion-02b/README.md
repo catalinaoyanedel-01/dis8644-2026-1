@@ -87,11 +87,11 @@ Personalmente, nunca me ha ido bien en las cosas que involucran cálculos (saqu�
 
 ![Foto de ejercicio ley de ohm](./imagenes/ejercicios-ohm1.jpg)
 
-En el ejercicio que se ve abajo, dejé dos opciones en las cuales estoy seguro de que ninguna está bien o tal vez la segunda opción se puede ver más convincente. Debido a éste ejercicio me di cuenta de que no sé qué se hace en el caso de que haya más de una resistencia, lo cual me ayudó a formular una pregunta para el encargo de las 10 preguntas. Volviendo al ejercicio, no sé cuál de las dos opciones es la menos incorrecta ya que me di cuenta de que la página no traía el resultado.
+En el ejercicio que se ve abajo dejé dos opciones en las cuales estoy seguro de que ninguna está bien, o tal vez la segunda opción se puede ver más convincente. Debido a éste ejercicio me di cuenta de que no sé qué se hace en el caso de que haya más de una resistencia, lo cual me ayudó a formular una pregunta para el encargo de las 10 preguntas. Volviendo al ejercicio, no sé cuál de las dos opciones es la menos incorrecta ya que me di cuenta de que la página no traía el resultado.
 
 ![Foto de ejercicio ley de ohm](./imagenes/ejercicios-ohm2.jpg)
 
-Mientras hacía estos ejercicios, intenté ver videos explicativos de cómo resolver ejercicios de circuitos paralelos, pero cada vez entendía menos y puede ser porque ninguno era como los circuitos que vemos nosotros, y no logré encontrar ningún video explicativo sencillo con esquemas parecidos a los de nosotros. Me dejó un poco decepcionado el no encontrar lo que yo buscaba, aparte de confuso por todos los calculos extraños que tuve que ver antes de darme cuenta de que no era lo que estaba buscando. Igual fue un poco entretenido.
+Mientras hacía estos ejercicios intenté ver videos explicativos de cómo resolver ejercicios de circuitos paralelos, pero cada vez entendía menos y puede ser porque ninguno era como los circuitos que vemos nosotros, y no logré encontrar ningún video explicativo sencillo con esquemas parecidos a los de nosotros. Me dejó un poco decepcionado el no encontrar lo que yo buscaba, aparte de quedar confuso por todos los calculos extraños que tuve que ver antes de darme cuenta de que no era lo que estaba buscando. Igual fue un poco entretenido.
 
 #### 10 Preguntas
 
